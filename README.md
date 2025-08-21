@@ -56,7 +56,7 @@ npm run dev
 Siteyi tarayıcınızda http://localhost:3000 adresinde görebilirsiniz.
 
 Ekran Görüntüleri ve Kod Örnekleri
-Bu bölümde, staj defterinde de kullandığın en önemli kod bloklarının ekran görüntülerini ekleyebilirsin.
+
 1. Akıllı Navbar (components/Navbar.tsx)
 Sayfa kaydırıldığında görünümü değişen dinamik Navbar.
 <img width="1326" height="938" alt="Ekran görüntüsü 2025-08-21 145740" src="https://github.com/user-attachments/assets/b92de750-8dae-47e2-b2ec-ec2cb89d194e" />
@@ -72,6 +72,7 @@ Haritadan gelen veriye göre turları filtreleyen state yönetimi.
 Next.js'in generateStaticParams fonksiyonu ile statik olarak üretilen dinamik sayfalar.
 <img width="1433" height="949" alt="Ekran görüntüsü 2025-08-21 150057" src="https://github.com/user-attachments/assets/eadf8b68-df31-4539-b629-0f8e293b0590" />
 <img width="1520" height="930" alt="Ekran görüntüsü 2025-08-21 150109" src="https://github.com/user-attachments/assets/8de17add-af30-40c7-b75f-910bc74e61ac" />
+
 
 
 
